@@ -1,0 +1,43 @@
+FOOD TROUGH
+
+Hello and welcome to FOOD TROUGH. My name is Xirk-on. Tonight our processing bots have designed 3 distinct meals of perfection. Please mark your selection below and it shall be funneled to you shortly.
+
+
+[ ] EFFICIENT MEAL
+
+Contains:
+
+- Protein Pill
+- 2 Energy Pills
+- Treatment Pill
+- Minerals Pill
+- Life Enabler
+
+[ ] EXPERIENCE MEAL
+
+Contains:
+
+- Meat Substitute Block
+- Green Veg Block
+- Sweet Lump Cake
+- Beans Bowl
+
+
+[ ] ALL-YOU-CAN-EAT-ON-A-CONVEYER-BELT MEAL
+
+Contains:
+
+- Caliyorkan Roll
+- Energy Roll
+- Impress Tube
+- Flavor Pastes
+- Crackers with Proteins
+- Meat Glue
+- Pam Sandwich
+- Soup o noodlewich
+- Yanked hamwich
+- Pressed slaw
+- Chopwich
+- Bulk Fat Fry
+- Seasonings
+- Elite Seasonings (OPTIONAL)
